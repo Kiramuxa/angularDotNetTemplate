@@ -1,0 +1,11 @@
+C:\Users\Kirill\source\repos\angularTemplate\angularTemplate\bin\Debug\netcoreapp2.0\angularTemplate.deps.json
+C:\Users\Kirill\source\repos\angularTemplate\angularTemplate\bin\Debug\netcoreapp2.0\angularTemplate.runtimeconfig.json
+C:\Users\Kirill\source\repos\angularTemplate\angularTemplate\bin\Debug\netcoreapp2.0\angularTemplate.runtimeconfig.dev.json
+C:\Users\Kirill\source\repos\angularTemplate\angularTemplate\bin\Debug\netcoreapp2.0\angularTemplate.dll
+C:\Users\Kirill\source\repos\angularTemplate\angularTemplate\obj\Debug\netcoreapp2.0\angularTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Kirill\source\repos\angularTemplate\angularTemplate\obj\Debug\netcoreapp2.0\angularTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\angularTemplate\angularTemplate\obj\Debug\netcoreapp2.0\angularTemplate.AssemblyInfoInputs.cache
+C:\Users\Kirill\source\repos\angularTemplate\angularTemplate\obj\Debug\netcoreapp2.0\angularTemplate.AssemblyInfo.cs
+C:\Users\Kirill\source\repos\angularTemplate\angularTemplate\bin\Debug\netcoreapp2.0\angularTemplate.pdb
+C:\Users\Kirill\source\repos\angularTemplate\angularTemplate\obj\Debug\netcoreapp2.0\angularTemplate.dll
+C:\Users\Kirill\source\repos\angularTemplate\angularTemplate\obj\Debug\netcoreapp2.0\angularTemplate.pdb
